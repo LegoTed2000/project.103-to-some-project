@@ -11,14 +11,21 @@ h4 {
     padding: 10px;
     border-radius: 5px;
 }
-#camera {
+#camera , #display {
     border-width: 3px;
     border-radius: 5px;
     border-color: black;
     border-style: dotted;
-    width: 450px;
-    height: 350px;
+    width: 400px;
+    height: 300px;
 }
 h5 {
     font-weight: bold;
+}
+button {
+    font-weight: bold;
+    background-color:rgb(4, 196, 196) ;
+    color: black;
+    height: 40px;
+    width: 120px;
 }
